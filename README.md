@@ -1,5 +1,7 @@
 # opentx-flysky-th9x
 
-Zip files for flash OpenTX 2.2 to any FlySky TH9x.
+OpenTX 2.2 for FlySky TH9x.
+------
+
 For more details, check this post:
-https://martindevmx.github.io/flashing-opentx-to-flysky-th9x-with-avrdude/
+https://martindevmx.github.io/linux/windows/avr/flashing-opentx-to-flysky-th9x-with-avrdude/
